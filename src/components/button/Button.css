@@ -1,0 +1,23 @@
+.Button {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(
+    180deg,
+    rgba(101, 64, 98, 1) 0%,
+    rgba(101, 214, 206, 1) 100%
+  );
+  color: white;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: bold;
+  letter-spacing: 0.05rem;
+}
+
+.Button:hover {
+  background: #65d6ce;
+  border: 0.5rem;
+  border-image: linear-gradient(#65d6ce, #ffe9d6);
+  transition: border-image 0.5s linear;
+  cursor: pointer;
+}

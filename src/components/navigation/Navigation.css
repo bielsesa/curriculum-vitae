@@ -1,0 +1,33 @@
+.wrapper {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.profile-img {
+  width: 70%;
+  height: auto;
+  border-radius: 50%;
+  margin-top: 5rem;
+}
+
+.menu-link {
+  text-decoration: none;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1.25em;
+  padding: 0.25rem;
+  margin: 1rem;
+  transition: all 150ms ease-out;
+}
+
+.menu-link:hover {
+  text-decoration: none;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: bold;
+  font-size: 1.75em;
+  padding: 0.25rem;
+  margin: 0.05rem;
+}
+
+.menu-link:active {
+  color: #86aba1;
+}

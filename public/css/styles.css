@@ -20,26 +20,3 @@ h6 {
   color: #654062;
   font-family: 'Noto Sans JP', sans-serif;
 }
-
-.wrapper-grid {
-  display: grid;
-  grid-template-columns: 1fr 4fr;
-}
-
-#component-root {
-  padding: 0.5rem;
-  margin-right: 1rem;
-}
-
-#nav {
-  margin: 0 2rem;
-  border-radius: 2rem;
-  padding: 0.5rem;
-  background-color: #f9f3ed;
-  text-align: center;
-  height: 50rem;
-}
-
-#footer {
-  text-align: center;
-}
