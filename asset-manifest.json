@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae/static/css/main.ce5f1951.chunk.css",
-    "main.js": "/curriculum-vitae/static/js/main.d8e5d9b8.chunk.js",
-    "main.js.map": "/curriculum-vitae/static/js/main.d8e5d9b8.chunk.js.map",
-    "runtime-main.js": "/curriculum-vitae/static/js/runtime-main.6af7f401.js",
-    "runtime-main.js.map": "/curriculum-vitae/static/js/runtime-main.6af7f401.js.map",
-    "static/js/2.d091edc4.chunk.js": "/curriculum-vitae/static/js/2.d091edc4.chunk.js",
-    "static/js/2.d091edc4.chunk.js.map": "/curriculum-vitae/static/js/2.d091edc4.chunk.js.map",
-    "static/js/3.915fb2d8.chunk.js": "/curriculum-vitae/static/js/3.915fb2d8.chunk.js",
-    "static/js/3.915fb2d8.chunk.js.map": "/curriculum-vitae/static/js/3.915fb2d8.chunk.js.map",
+    "main.css": "/curriculum-vitae/static/css/main.cd6890d5.chunk.css",
+    "main.js": "/curriculum-vitae/static/js/main.ed3bf609.chunk.js",
+    "main.js.map": "/curriculum-vitae/static/js/main.ed3bf609.chunk.js.map",
+    "runtime-main.js": "/curriculum-vitae/static/js/runtime-main.edbb94d5.js",
+    "runtime-main.js.map": "/curriculum-vitae/static/js/runtime-main.edbb94d5.js.map",
+    "static/js/2.8bfe5562.chunk.js": "/curriculum-vitae/static/js/2.8bfe5562.chunk.js",
+    "static/js/2.8bfe5562.chunk.js.map": "/curriculum-vitae/static/js/2.8bfe5562.chunk.js.map",
+    "static/js/3.06c999fb.chunk.js": "/curriculum-vitae/static/js/3.06c999fb.chunk.js",
+    "static/js/3.06c999fb.chunk.js.map": "/curriculum-vitae/static/js/3.06c999fb.chunk.js.map",
     "index.html": "/curriculum-vitae/index.html",
-    "static/css/main.ce5f1951.chunk.css.map": "/curriculum-vitae/static/css/main.ce5f1951.chunk.css.map",
-    "static/js/2.d091edc4.chunk.js.LICENSE.txt": "/curriculum-vitae/static/js/2.d091edc4.chunk.js.LICENSE.txt",
-    "static/media/prof-rounded.751d8295.png": "/curriculum-vitae/static/media/prof-rounded.751d8295.png"
+    "static/css/main.cd6890d5.chunk.css.map": "/curriculum-vitae/static/css/main.cd6890d5.chunk.css.map",
+    "static/js/2.8bfe5562.chunk.js.LICENSE.txt": "/curriculum-vitae/static/js/2.8bfe5562.chunk.js.LICENSE.txt",
+    "static/media/prof-rounded-2.4d728437.png": "/curriculum-vitae/static/media/prof-rounded-2.4d728437.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6af7f401.js",
-    "static/js/2.d091edc4.chunk.js",
-    "static/css/main.ce5f1951.chunk.css",
-    "static/js/main.d8e5d9b8.chunk.js"
+    "static/js/runtime-main.edbb94d5.js",
+    "static/js/2.8bfe5562.chunk.js",
+    "static/css/main.cd6890d5.chunk.css",
+    "static/js/main.ed3bf609.chunk.js"
   ]
 }
