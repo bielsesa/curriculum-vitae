@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Router, Link } from "@reach/router";
-import profile from "../../img/prof-rounded.png"
+import { Link } from "@reach/router";
+import profile from "../../img/prof-rounded-2.png"
 import "./Navigation.css";
 
 class Navigation extends Component {
@@ -15,7 +15,7 @@ class Navigation extends Component {
                     <Link className="menu-link" to="work-exp">Work Experience</Link>
                     <Link className="menu-link" to="education">Education</Link>
                     <Link className="menu-link" to="contact">Contact Info</Link>
-                    <p>Made with <a href="https://reactjs.org/">React.js</a>! <i class="fab fa-react"></i></p>
+                    <p>Made with <a href="https://reactjs.org/">React.js</a>! <i class="fab fa-react fa-2x"></i></p>
                 </nav>
                 
             </div>

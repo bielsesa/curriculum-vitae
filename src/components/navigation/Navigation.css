@@ -11,21 +11,24 @@
 }
 
 .menu-link {
+  color: #654062;
   text-decoration: none;
   font-family: 'JetBrains Mono', monospace;
   font-size: 1.25em;
   padding: 0.25rem;
   margin: 1rem;
-  transition: all 150ms ease-out;
+  transition: all 50ms linear;
+  border-bottom: #654062 0px solid;
 }
 
 .menu-link:hover {
-  text-decoration: none;
-  font-family: 'JetBrains Mono', monospace;
-  font-weight: bold;
-  font-size: 1.75em;
-  padding: 0.25rem;
-  margin: 0.05rem;
+}
+
+.menu-link::after {
+  border: blue 2px solid;
+  color: blue;
+  height: 2px;
+  width: 100%;
 }
 
 .menu-link:active {
