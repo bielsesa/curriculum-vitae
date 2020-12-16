@@ -9,12 +9,12 @@ class Navigation extends Component {
             <div>
                 <img src={profile} alt="Author's profile" className="profile-img"/>
                 <nav className="wrapper">
-                    <Link className="menu-link" to="/">Home</Link>
-                    <Link className="menu-link" to="about">About</Link>
-                    <Link className="menu-link" to="personal-projects">Personal Projects</Link>
-                    <Link className="menu-link" to="work-exp">Work Experience</Link>
-                    <Link className="menu-link" to="education">Education</Link>
-                    <Link className="menu-link" to="contact">Contact Info</Link>
+                    <Link className="menu-link" to="curriculum-vitae/home">Home</Link>
+                    <Link className="menu-link" to="curriculum-vitae/about">About</Link>
+                    <Link className="menu-link" to="curriculum-vitae/personal-projects">Personal Projects</Link>
+                    <Link className="menu-link" to="curriculum-vitae/work-exp">Work Experience</Link>
+                    <Link className="menu-link" to="curriculum-vitae/education">Education</Link>
+                    <Link className="menu-link" to="curriculum-vitae/contact">Contact Info</Link>
                     <p>Made with <a href="https://reactjs.org/">React.js</a>! <i class="fab fa-react fa-2x"></i></p>
                 </nav>
                 

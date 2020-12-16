@@ -22,15 +22,9 @@
 }
 
 .menu-link:hover {
-}
-
-.menu-link::after {
-  border: blue 2px solid;
-  color: blue;
-  height: 2px;
-  width: 100%;
+  color: #86aba1;
 }
 
 .menu-link:active {
-  color: #86aba1;
+  color: #5f867c;
 }

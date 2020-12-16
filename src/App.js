@@ -15,8 +15,8 @@ function App() {
         <div className="wrapper-grid">
           <div id="nav"><Navigation/></div>
           <div id="component-root">
-            <Router>
-              <Home path="/" />
+            <Router basepath="curriculum-vitae">
+              <Home path="home" default/>
               <About path="about" />
               <PersonalProjects path="personal-projects" />
               <WorkExperience path="work-exp" />
